@@ -13,8 +13,8 @@ url:              https://devinmoreland.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Devin Moreland'
+  url:            https://devinmoreland.github.io
 
 paginate:         5
 
