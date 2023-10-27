@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            <font size="20">Devin Moreland</font>
+title:            <font size="15">Devin Moreland</font>
 tagline:          'Data Portfolio'
 description:      'Data Professional with focus on <b>data science, machine learning, statistics, and software engineering.</b>'
 url:              
