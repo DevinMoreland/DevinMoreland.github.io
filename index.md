@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+
+With over a decade of data experience, I have done x,y,z.
+I have a passion for x,y,z.
+I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).
+
+Development toolkit:
+Excel, Access, Python, Power BI, Tableau, Microsoft Visio, Microsoft Project, Knime, SQL
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
