@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Devin Moreland
 tagline:          'Data Portfolio'
-description:      '<img src="images/IMG-20230324-WA0003.jpg" alt="Devin Moreland"> Data Professional with focus on analyics, machine learning, anomoly detection, and software engineering.'
+description:      'Data Professional with focus on analyics, machine learning, anomoly detection, and software engineering.'
 url:              https://devinmoreland.github.io
 baseurl:          /
 
