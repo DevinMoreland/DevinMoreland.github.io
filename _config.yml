@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Devin Moreland
+title:            <center>Devin Moreland</center>
 tagline:          'Data Portfolio'
-description:      'Data Professional with focus on analyics, machine learning, anomoly detection, and software engineering.'
-url:              https://devinmoreland.github.io
+description:      'Data Professional with focus on data science, machine learning, statistics, and software engineering.'
+url:              
 baseurl:          /
 
 author:
