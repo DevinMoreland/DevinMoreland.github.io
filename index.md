@@ -3,18 +3,20 @@ layout: default
 title: Home
 ---
 <h1>Devin Moreland</h1>
-<center>
-  <img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland">
-</center>
+<div class="row">
+  <div class="column"><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland"></div>
+  <div class="column">
 With over a decade of data experience, I have done x,y,z.
 I have a passion for x,y,z.
-I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).
+I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).</div>
+</div>
 
 Development toolkit:
 Excel, Access, Python, Power BI, Tableau, Microsoft Visio, Microsoft Project, Knime, SQL
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+<b>Development toolkit:</b>
+Excel, Access, Python, Power BI, Tableau, Microsoft Visio, Microsoft Project, Knime, SQL
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
