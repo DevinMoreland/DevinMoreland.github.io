@@ -5,7 +5,7 @@ title: Home
 <h1>Devin Moreland</h1>
 <table>
   <tr>
-    <td><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland" width=50%; height=auto;></td>
+    <td><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland"></td>
     <td>
             With over a decade of data experience, I have done x,y,z.
             I have a passion for x,y,z.
@@ -13,10 +13,6 @@ title: Home
     </td>
   </tr>
 </table>
-
-
-Development toolkit:
-Excel, Access, Python, Power BI, Tableau, Microsoft Visio, Microsoft Project, Knime, SQL
 
 <p class="message">
 <b>Development toolkit:</b>
