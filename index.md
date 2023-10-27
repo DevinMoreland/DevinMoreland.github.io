@@ -3,19 +3,16 @@ layout: default
 title: Home
 ---
 <h1>Devin Moreland</h1>
-<body>
-<div class="row">
-        <div class="column" style="background-color:#FFB695;">
-            <img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland" width=50%; height=auto;>
-        </div>
-        <div class="column" style="background-color:#96D1CD;">
+<table>
+  <tr>
+    <td><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland" width=50%; height=auto;></td>
+    <td>
             With over a decade of data experience, I have done x,y,z.
-I have a passion for x,y,z.
-I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).
-        </div>
-    </div>
-</body>
-
+            I have a passion for x,y,z.
+            I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).
+    </td>
+  </tr>
+</table>
 
 
 Development toolkit:
