@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<h1>Devin Moreland</h1>
 <center>
   <img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland">
 </center>
