@@ -4,7 +4,7 @@ title: Home
 ---
 <h1>Devin Moreland</h1>
 <div class="row">
-  <div class="column"><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland"></div>
+  <div class="column"><img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland" width=50%; height=auto;></div>
   <div class="column">With over a decade of data experience, I have done x,y,z.
 I have a passion for x,y,z.
 I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).</div>
