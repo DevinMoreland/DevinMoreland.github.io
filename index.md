@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 <h1>Devin Moreland</h1>
+<body>
 <div class="row">
         <div class="column" style="background-color:#FFB695;">
             <img src="/images/IMG-20230324-WA0003.jpg" alt="Devin Moreland" width=50%; height=auto;>
@@ -13,6 +14,9 @@ I have a passion for x,y,z.
 I am an active learner with formal education in. All of these have one thing in common, data. (explain the connection).
         </div>
     </div>
+</body>
+
+
 
 Development toolkit:
 Excel, Access, Python, Power BI, Tableau, Microsoft Visio, Microsoft Project, Knime, SQL
